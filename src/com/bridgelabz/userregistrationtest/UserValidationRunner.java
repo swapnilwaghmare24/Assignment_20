@@ -47,7 +47,7 @@ public class UserValidationRunner {
                 return;
             }
         }*/
-        userValidation.password();
+       /* userValidation.password();
         while (ch=='y') {
             System.out.println("type y to check again");
             ch = sc.next().charAt(0);
@@ -56,6 +56,6 @@ public class UserValidationRunner {
             } else {
                 return;
             }
-        }
+        }*/
     }
 }
